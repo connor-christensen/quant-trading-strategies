@@ -1,5 +1,7 @@
 # quant-trading-strategies
 
+I'm a structural engineering student at the University of Auckland with no prior background in quantitative finance or Python. This repo is the result of roughly a day of teaching myself Python, covering concepts that caught my interest while reading about trading and probability. The goal was breadth of exposure as opposed to polished implementations.
+
 Quantitative Trading Strategy Analysis
 A collection of Python-based quantitative trading tools covering strategy backtesting, stochastic simulation, statistical arbitrage, risk analysis, and options pricing.
 
